@@ -1,0 +1,2 @@
+APP_URL= https://fatihmuflih.github.io/dicoding-story-app/
+MAP_SERVICE_API_KEY=eJlgWppMk0erXofYIz1E
